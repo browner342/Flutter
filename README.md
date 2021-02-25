@@ -5,3 +5,5 @@ Added more options:
 - two dices has to be touched to count the score
 - button with new round
 - resetting score
+
+<img src="dicePhoto.jpg" width = 200>
